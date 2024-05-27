@@ -2,7 +2,7 @@
     "name": "Lab8-Starter",
     "short_name": "Chris and Thanh",
     "description": "A starter project for Lab 8",
-    "start_url": "/Lab8-Starter",
+    "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
